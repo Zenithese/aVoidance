@@ -1,0 +1,2 @@
+class AVoidance < ApplicationRecord
+end

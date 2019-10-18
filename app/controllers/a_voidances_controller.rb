@@ -1,0 +1,2 @@
+class AVoidancesController < ApplicationController
+end

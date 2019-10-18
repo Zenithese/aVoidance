@@ -1,0 +1,2 @@
+module AVoidancesHelper
+end
